@@ -4,10 +4,11 @@ body {
     line-height: 34px;
     color: #777777;
     background-image: url(../images/sakura.png);
-    
     }
 
-
+.container {
+  width:100%
+}
       
   #logo {
   
