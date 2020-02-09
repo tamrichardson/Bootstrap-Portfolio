@@ -6,10 +6,13 @@ body {
   background-image: url(../images/sakura.png);
   }
 
-
+.container {
+  width: 100%;
+  padding-top: 200px;
+}
 
 #logo {
-float: left;
+
   width: 250px;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
@@ -23,11 +26,12 @@ float: left;
 }
 
 nav a {
+ 
   margin: 0;
   padding: 0;
   width: 100%;
-  padding-left: 15px;
-  margin-left: 15px;
+  padding-left: 10px;
+  margin-left: 10px;
   line-height: 18px;
   color: #999;
   text-decoration: none;
